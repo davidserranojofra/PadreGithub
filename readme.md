@@ -11,7 +11,7 @@
 
 **git reflog** para listar todos los pasos que hemos realizado y buscar el commit donde de modificó git-nuestro.md y coger su identificador “98a9c06”. 
 
-**git reset —hard 98a9c06** para volver al commit junto con sus cambios(—hard) y posicionando la rama styled apuntando a ese commit y HEAD apuntando a styled.
+**git reset —hard 98a9c06** para volver al commit junto con sus cambios(—hard) y posiciono la rama styled apuntando a ese commit y HEAD apuntando a styled.
 
 ---
 
@@ -37,7 +37,7 @@ Pasos a seguir cuando entra en el modo conflicto en este caso:
 
 ### 5.- El merge del paso 21, ¿Causó algún conflicto? ¿Por qué? 
 
-No, lo único que ha echo master es actualizar su rama y en estos momentos es la rama mas actualizada. Realmente todo y que he usado el comando *—no-ff*, asído un merge fast forwar y no dan conflicto nunca ya que son el linea.
+No, lo único que ha echo master es actualizar su rama y en estos momentos es la rama mas actualizada. Realmente todo y que he usado el comando *—no-ff*, ha sido un merge fast forward y no dan conflicto nunca ya que son el linea.
 
 ---
 
