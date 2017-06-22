@@ -37,7 +37,7 @@ Pasos a seguir cuando entra en el modo conflicto en este caso:
 
 ### 5.- El merge del paso 21, ¿Causó algún conflicto? ¿Por qué? 
 
-No, lo único que ha echo master es actualizar su rama y en estos momentos es la rama mas actualizada. Realmente todo y que he usado el comando *—no-ff*, ha sido un merge fast forwar y no dan conflicto nunca ya que son el linea.
+No, lo único que ha echo master es actualizar su rama y en estos momentos es la rama mas actualizada. Realmente todo y que he usado el comando *—no-ff*, ha sido un merge fast forward y no dan conflicto nunca ya que son el linea.
 
 ---
 
